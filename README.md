@@ -1,2 +1,2 @@
-# calculadora
+# potenciar
 Created with CodeSandbox
